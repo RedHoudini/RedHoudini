@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RedHoudini
-- 👀 I’m interested in Tech Stuff
+- 👋 Hi, I’m @enyikingsley
+- 👀 I’m interested in Tech 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects that involve code
 - 📫 How to reach me ...enyikingsley3@gmail.com
